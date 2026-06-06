@@ -1,0 +1,90 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	
+	
+}
+
+
+.logo{
+	color:white;
+	font-size:20px;
+	margin-left:5%;
+}
+body{
+	background-image:url(tiger.jpeg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
+header{
+	padding:30px;
+}
+
+.para{
+	color:white;
+	
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 1.4;
+    max-width: 400px;
+    
+}
+
+.t1{
+	color:yellow;
+	font-size:20px;
+	padding:0;
+	margin-top:10px;
+	font-weight:bold;
+}
+.t2{
+	color:white;
+	font-size:60px;
+	margin-top:10px;
+	font-weight:bold;
+	line-height:1;
+}
+
+.btn{
+	border-radius:3px;
+	display: inline-block;
+    text-decoration: none;
+    color:white;
+    border: 1px solid yellow;
+    padding: 5px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    transition: all 0.4s ease;
+}
+
+.menu{
+	text-decoration:none;
+	margin-left:35px;
+}
+nav{
+	padding:25px;
+	display:inline;
+	position:relative;
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+    
+	
+}
+.bt{
+	margin-left:8px;
+	margin-top:35px;
+}
+.page{
+	margin-left:8%;
+}
+a{
+	text-decoration: none;
+	color:yellow;
+	padding:10px;
+}
+.wh{
+	color:white;
+}
